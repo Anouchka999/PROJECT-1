@@ -1,5 +1,5 @@
-# PROJECT-1/Data Analysis
-SQL & BI - TOYS &amp; MODELS
+# PROJECT-1/ Data Analysis
+Dynamic Business Dashboard – SQL & Power BI - TOYS & MODELS
 
 📌 Project Overview
 This project aims to analyze [key aspect of the dataset] and extract valuable insights to improve [business decision-making, customer experience, performance tracking]. Using SQL, and data visualization tools, the goal is to transform raw data into meaningful trends and actionable recommendations.

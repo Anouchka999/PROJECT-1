@@ -4,6 +4,8 @@ Dynamic Business Dashboard – SQL & Power BI - TOYS & MODELS
 📌 Project Overview
 This project focuses on building a dynamic business dashboard for a company that sells models and prototypes. The company already has an extensive database covering employees, products, orders, and finances. The goal is to extract and visualize key business metrics using SQL and Power BI, ensuring that the company's director receives daily updated insights for decision-making
 
+The database https://drive.google.com/file/d/103Qm2gwiTkRFlHH4Sn-dOSAW97b8zX8U/view
+
 🎯 Objectives & Challenge
 The dashboard is structured around four key areas:
 Sales – Revenue tracking, product performance analysis

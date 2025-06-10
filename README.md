@@ -45,6 +45,7 @@ Once KPIs are computed using SQL, they are optimized for Power BI visualization.
  SQL (MySQL Workbench) – Querying & KPI computation
  Power BI – Interactive dashboards & reporting
  Data Modeling – Star schema optimization for analytics
+ Miro - https://miro.com/welcomeonboard/UEVKV0VoV3MvcTBRZWt5NmtuRk13Nlp0eXJCOVFBeHU5UnVtNlBMK2llMnRUQjUzZVd3SUZ2RU1jY0RwQkFUNnZoREFnekRibGlldVJHbW05d0pvRVBMdWxUTFhyV3FIdHZ6NlVRblpmM2FpTGNOdklzalJyY1dyRE15NXZHSjN0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=484613966950
  GitHub – Version control & project sharing
 
 

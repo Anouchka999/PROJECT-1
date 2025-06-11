@@ -58,8 +58,27 @@ Once KPIs are computed using SQL, they are optimized for Power BI visualization.
  Miro - <br> https://miro.com/welcomeonboard/UEVKV0VoV3MvcTBRZWt5NmtuRk13Nlp0eXJCOVFBeHU5UnVtNlBMK2llMnRUQjUzZVd3SUZ2RU1jY0RwQkFUNnZoREFnekRibGlldVJHbW05d0pvRVBMdWxUTFhyV3FIdHZ6NlVRblpmM2FpTGNOdklzalJyY1dyRE15NXZHSjN0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=484613966950
  GitHub – Version control & project sharing
 
+RECOMMENDATIONS PER SECTOR
 
-📈 Key Insights & Results
-🔹 [Insight 1] – Example: "Sales trends show a peak in Q4, influenced by seasonal demand."
-🔹 [Insight 2] – Example: "Customer retention rate increases when engagement exceeds 3 interactions per month."
-🔹 [Insight 3] – Example: "Optimizing pricing strategy based on competitor analysis led to a 12% revenue increase."
+Human Resources - Training Local Teams
+- Intensive Sales Training: Implement programs to strengthen your teams' skills with tailored sales techniques.
+- Management Support: Provide guidance to underperforming sales reps to improve their performance.
+- Optimizing Top Sales: Reduce their low-performing client portfolio to allocate more time and quality resources to high-value clients.
+
+Sales Optimization & Targeted Marketing Campaigns
+- Tokyo: Launch campaigns to increase customer acquisition—welcome offers and partnerships with local high-end brands.
+- Boston: Develop promotions targeting price-sensitive prospects—discounts, bundled products, and loyalty programs.
+- Boosting Revenue: Focus resources on high-performing territories and offices to maximize average basket size and overall revenue.
+- Strategic Marketing: Prioritize best-sellers and streamline underperforming products.
+- North America & Asia-Pacific: Revitalize declining markets with tailored campaigns and reassess offers.
+- Customer Feedback: Conduct satisfaction surveys to identify barriers and improvement opportunities for increased sales.
+
+Logistics - Eliminating Dead Stock
+- Japan, Singapore, Sweden: Due to delivery challenges, recommend removing TRAINS and SHIPS categories.
+- Seasonal Marketing Strategy: Align marketing efforts with key events in organizing countries.
+- Stock Management: Ensure key product categories are well-stocked at the end of the season to anticipate strong Q4 growth.
+
+Finance - Account Management Strategy
+- Stock Adjustment: Align inventory with seasonal trends and growth forecasts.
+- Data-Driven Insights: Identify complex patterns and correlations for a strategic market advantage.
+

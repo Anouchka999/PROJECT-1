@@ -66,8 +66,8 @@ Human Resources - Training Local Teams
 - Optimizing Top Sales: Reduce their low-performing client portfolio to allocate more time and quality resources to high-value clients.
 
 Sales Optimization & Targeted Marketing Campaigns
-- Tokyo: Launch campaigns to increase customer acquisition—welcome offers and partnerships with local high-end brands.
-- Boston: Develop promotions targeting price-sensitive prospects—discounts, bundled products, and loyalty programs.
+- Tokyo: Launch campaigns to increase customer acquisition — welcome offers and partnerships with local high-end brands.
+- Boston: Develop promotions targeting price-sensitive prospects — discounts, bundled products, and loyalty programs.
 - Boosting Revenue: Focus resources on high-performing territories and offices to maximize average basket size and overall revenue.
 - Strategic Marketing: Prioritize best-sellers and streamline underperforming products.
 - North America & Asia-Pacific: Revitalize declining markets with tailored campaigns and reassess offers.

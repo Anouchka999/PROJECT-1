@@ -43,9 +43,11 @@ Key Performance Indicators (KPIs)
 
 📌 Logistics
 
-+ Stock Below Critical Threshold – Prevent shortages with better inventory management. <br>
-+  Average Order Processing Time – Evaluate efficiency in shipping & logistics. <br>
-+  Delayed Order Delivery Rate – Spot inefficiencies in delivery performance. <br>
++ Stock of products below critical threshold: Identify low-stock products to prevent shortages.
++ Average order processing time + orders exceeding the average delivery time: Measure operational efficiency by analyzing the time between order placement and shipment.
++ Stock turnover rate: Measure how quickly inventory is sold for each product.
++ Rate of late-delivered orders: Identify logistical issues and improve delivery times.
+
 
 🚀 Data Processing & Optimization
 

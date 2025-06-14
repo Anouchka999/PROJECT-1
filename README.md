@@ -36,9 +36,10 @@ Key Performance Indicators (KPIs)
 
 📌 Finance
 
-+  Top/Least Revenue-Generating Clients – Target high-value customers. <br>
-+  Debt Recovery Rate per Client – Assess unpaid orders per client. <br>
-+  Quarterly Sales Growth Trends – Identify seasonal patterns for forecasting. <br>
++ Top/low revenue-generating clients: Identify the clients generating the most revenue to improve retention. <br>
++ Debt recovery rate per client: Identify clients with a high amount of unpaid orders. <br>
++ Quarterly sales growth: Identify seasonal trends or growth opportunities. <br>
++ Average payment amount + clients below the average: Assess clients’ payment capacity. <br>
 + Gross margin per product and category: Measure the gross margin to determine the most and least profitable products/categories. <br>
 
 📌 Logistics
@@ -60,7 +61,7 @@ Once KPIs are computed using SQL, they are optimized for Power BI visualization.
  SQL (MySQL Workbench) – Querying & KPI computation <br>
  Power BI – Interactive dashboards & reporting <br>
  Data Modeling – Star schema optimization for analytics <br>
- Miro - <br> https://miro.com/welcomeonboard/UEVKV0VoV3MvcTBRZWt5NmtuRk13Nlp0eXJCOVFBeHU5UnVtNlBMK2llMnRUQjUzZVd3SUZ2RU1jY0RwQkFUNnZoREFnekRibGlldVJHbW05d0pvRVBMdWxUTFhyV3FIdHZ6NlVRblpmM2FpTGNOdklzalJyY1dyRE15NXZHSjN0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=484613966950
+ Miro - <br> 
  
 
 + RECOMMENDATIONS PER SECTOR

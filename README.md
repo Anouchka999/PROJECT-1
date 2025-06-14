@@ -8,10 +8,11 @@ The database https://drive.google.com/file/d/103Qm2gwiTkRFlHH4Sn-dOSAW97b8zX8U/v
 
 🎯 Objectives & Challenge
 The dashboard is structured around four key areas:
-Sales – Revenue tracking, product performance analysis
-Finance – Customer payment behavior, revenue growth
-Logistics – Stock management, delivery efficiency
-Human Resources – Employee performance, sales representative efficienc
+
++ Sales – Revenue tracking, product performance analysis
++ Finance – Customer payment behavior, revenue growth
++ Logistics – Stock management, delivery efficiency
++ Human Resources – Employee performance, sales representative efficienc
 
 The analysis includes mandatory KPIs (critical for business decisions), recommended KPIs (helpful for deeper insights), and optional KPIs (adding value where relevant). Creativity in proposing additional KPIs is encouraged to optimize the dashboard
 

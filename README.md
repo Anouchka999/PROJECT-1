@@ -14,8 +14,6 @@ The dashboard is structured around four key areas:
 + Logistics – Stock management, delivery efficiency
 + Human Resources – Employee performance, sales representative efficienc
 
-The analysis includes mandatory KPIs (critical for business decisions), recommended KPIs (helpful for deeper insights), and optional KPIs (adding value where relevant). Creativity in proposing additional KPIs is encouraged to optimize the dashboard
-
 🔎 SQL Analysis – KPI Computation
 To build the dashboard, advanced SQL queries are written to compute business metrics, improving querying skills essential for any Data Analyst role.
 
